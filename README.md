@@ -8,6 +8,8 @@
 - 💻 LeetCode Profile "https://leetcode.com/ksmdhussain/".
 - 🖥 GeeksForGeeks Profile "https://auth.geeksforgeeks.org/user/ksmdhussain/practice".
 - 🕹 Full Stack Web Application "Coming Soon".
+- 📁 Blog for learing resorces "Coming Soon".
+- 🗂 YouTube channel "Comming Soon".
 <!---
 Hussain-ksmd/Hussain-ksmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
